@@ -38,9 +38,9 @@ The tutorial comprises of two modules.
 
 | # | Activity | Date / Duration | Links |
 | ----------- | ----------- | ----------- | ----------- |
-| **1.** | **Mission 1** – Build a web page | 22 Nov 2023 | [code](https://github.com/abeerarshad2025/Coding-Tutorial-Module-1/tree/main/activities/1) / [demo](https://abeerarshad2025.github.io/Coding-Tutorial-Module-1/activities/1/) |
-| **2.** | **Mission 2** – Create a password | 25 Nov 2023 | [code](https://github.com/abeerarshad2025/Coding-Tutorial-Module-1/tree/main/activities/2) / [demo](https://abeerarshad2025.github.io/Coding-Tutorial-Module-1/activities/2/) |
-| **3.** | **Mission 3** – Build an app | 26 Nov 2023 | [code](https://github.com/abeerarshad2025/Coding-Tutorial-Module-1/tree/main/activities/3) / [demo](https://abeerarshad2025.github.io/Coding-Tutorial-Module-1/activities/3/) |
+| **1.** | **Mission 1** – Build a web page | [code](https://github.com/abeerarshad2025/Coding-Tutorial-Module-1/tree/main/activities/1) / [demo](https://abeerarshad2025.github.io/Coding-Tutorial-Module-1/activities/1/) |
+| **2.** | **Mission 2** – Create a password | [code](https://github.com/abeerarshad2025/Coding-Tutorial-Module-1/tree/main/activities/2) / [demo](https://abeerarshad2025.github.io/Coding-Tutorial-Module-1/activities/2/) |
+| **3.** | **Mission 3** – Build an app | [code](https://github.com/abeerarshad2025/Coding-Tutorial-Module-1/tree/main/activities/3) / [demo](https://abeerarshad2025.github.io/Coding-Tutorial-Module-1/activities/3/) |
 | **4.** | **Mission 4** – Plan a route | n/a | n/a |
-| **5.** | **Mission 5** – Make a game | 28 Nov 2023 | [code](https://github.com/abeerarshad2025/Coding-Tutorial-Module-1/tree/main/activities/5) / [demo](https://abeerarshad2025.github.io/Coding-Tutorial-Module-1/activities/5/) |
-| **6.** | **Mission 6** – Finished website | 29 Nov 2023 | [code](https://github.com/abeerarshad2025/Coding-Tutorial-Module-1/tree/main/activities/6) / [demo](https://abeerarshad2025.github.io/Coding-Tutorial-Module-1/activities/6/) |
+| **5.** | **Mission 5** – Make a game | [code](https://github.com/abeerarshad2025/Coding-Tutorial-Module-1/tree/main/activities/5) / [demo](https://abeerarshad2025.github.io/Coding-Tutorial-Module-1/activities/5/) |
+| **6.** | **Mission 6** – Finished website | [code](https://github.com/abeerarshad2025/Coding-Tutorial-Module-1/tree/main/activities/6) / [demo](https://abeerarshad2025.github.io/Coding-Tutorial-Module-1/activities/6/) |
